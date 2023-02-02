@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/p1-pagina-web/static/css/main.31d6cfe0.css",
+    "main.js": "/p1-pagina-web/static/js/main.128c8534.js",
+    "index.html": "/p1-pagina-web/index.html",
+    "main.128c8534.js.map": "/p1-pagina-web/static/js/main.128c8534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.128c8534.js"
+  ]
+}
